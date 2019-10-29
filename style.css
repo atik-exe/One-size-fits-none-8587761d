@@ -1,0 +1,16 @@
+body{background-color: yellow}
+h1 {
+    color: blue;
+}
+
+h2 {
+	color: green;
+	font-size: 2em;
+}
+ul {font-size: xx-large;}
+ol {font-size: xx-large;
+color: red}
+
+img {
+	width: 450px;
+}
